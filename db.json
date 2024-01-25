@@ -1,0 +1,116 @@
+{
+
+  "News": [
+    {
+      "name": "The Washington Post",
+      "author": "Fred Lambert",
+      "title" : "News Highlights: Top Company News of the Day - Wednesday at 11 PM ET",
+      "description" : "Tesla reported lower fourth-quarter operating profits despite higher revenues Wednesday, following a series of auto price cuts as Elon Musk's electric vehicle giant warned of slower volume growth in 2024. Shares of Tesla fell after the company's earnings per …",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2024-01-24T18:27:21Z",
+      "content": "Chinese EV Maker Stocks Fall as Tesla Outlook Weighs \r\nShares of Chinese electric-vehicle markers were lower after Tesla's latest results and its outlook for 2024 reaffirmed investor worries about sl… [+1918 chars]",
+      "id": 1
+    },
+    {
+      "name": "CNN",      
+      "author": "Investor's Business Daily",
+      "title" : "Tesla warned of \"notably\" slower growth in 2024, and its profit margin took a hit",
+      "publishedAt": "2024-01-24T18:27:21Z",
+      "description": "Tesla CEO Musk: Chinese EV firms will 'demolish' rivals without trade barriers",
+      "urlToImage": "https://c.biztoc.com/p/560339ad6fbdbd38/s.webp",
+      "content": "Teslas profit from sales of electric cars slumped in the last three months of last year because of price cuts intended to thwart increasingly intense competition, the company said on Wednesday as it … [+274 chars]",
+      "id": 2
+    },
+    {
+      "name": "The Hill",     
+      "author": "Joseph Adinolfi",
+      "title" : "Musk: Chinese EV firms will 'demolish' rivals without trade barriers",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEE3H0RE-ORUBS_L.jpg",
+      "description": "SAN FRANCISCO : Tesla CEO Elon Musk said on Wednesday Chinese automakers will \"demolish\" global rivals without trade barriers, underscoring the heat the U.S. electric vehicle market leader faces from the likes of BYD, who are racing to expand worldwide. Musk'…",
+      "publishedAt": "2024-01-24T18:27:21Z",
+      "content": "Investing.com-- Gold prices nursed steep losses on Thursday as anticipation of a barrage of U.S. economic and interest rate cues kept traders averse to the yellow metal, while copper sat on strong ga… [+3376 chars]",
+      "id": 3
+    },
+    {
+      "name": "YouTube",
+      "title" : "Apache Druid: A Hybrid Data Warehouse for Fast Analytics",
+      "author": "Avik Roy",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "description": "A low-cost model of Tesla will launch in 2024, CEO Elon Musk told investors. It could help the EV maker compete with BYD and other surging Chinese automakers.",
+      "publishedAt": "2024-01-24T18:27:21Z",
+      "content": "By Tracy Qu \r\nShares of Chinese electric-vehicle markers were lower at midday on Thursday after industry leader Tesla's latest results and its outlook for 2024 reaffirmed investor worries about slowi… [+1499 chars]",
+      "id": 4
+        },
+    {
+      "name": "CNBC",
+      "title" : "Tesla reveals target date for new electric vehicle launch",
+      "author": "Associated Press",
+      "urlToImage": "https://c.biztoc.com/265/og.png",
+      "description": "The Magnificent Seven tech stocks, including Alphabet Inc (NASDAQ:GOOG) (NASDAQ:GOOGL), Amazon.Com Inc (NASDAQ:AMZN), Apple Inc (NASDAQ:AAPL), Meta Platforms Inc (NASDAQ:META), Microsoft Corp (NASDAQ:MSFT), Nvidia Corp (NASDAQ:NVDA), and Tesla Inc (NASDAQ:TSL…",
+      "publishedAt": "2024-01-24T18:27:21Z",
+      "content": "Shares of Chinese electric-vehicle markers were lower after Teslas latest results and its outlook for 2024 reaffirmed investor worries about slowing demand in China.\r\n#tesla\r\nThis story appeared on w… [+18 chars]",
+      "id": 5
+    },
+    {
+      "name": "KOIN.com",
+      "title" : "Shares of Tesla suppliers in Asia take a beating after automaker misses targets",
+      "author": "Frances Yue",
+      "urlToImage": "https://i-invdn-com.investing.com/news/indicatornews_5_800x533_L_1412601619.jpg",
+      "description": "Chinese EV stocks slide as Tesla Q4 results highlight demand fears",
+      "publishedAt": "2024-01-24T18:27:21Z",
+      "content": "A look at the day ahead in European and global markets from Tom Westbrook\r\nChinese markets caught a foothold overnight, with a cut in bank reserve requirements and vague promises of more support ahea… [+1798 chars]",
+      "id": 6
+    },
+    {
+      "name": "Associated Press",
+      "title" : "Shares of Tesla suppliers in Asia take a beating after automaker misses targets",
+      "author": "feedfeeder",
+      "publishedAt": "2024-01-24T18:27:21Z",
+      "description": "Some of the top global developments in this edition of World Street include SAP#39;s revealation of $2.2 billion restructuring programme for 2024, Tesla lowered growth forecast for 2024, Saudi Arabia#39;s first alcohol store in Riyadh, and more",
+      "urlToImage": "https://www.marketscreener.com/images/reuters/2023-08/2023-08-17T070038Z_1_LYNXMPEJ7G07X_RTROPTP_3_CHINA-REGULATION-INVESTORS.JPG",
+      "content": "A look at the day ahead in European and global markets from Tom\r\nWestbrook\r\nChinese markets caught a foothold overnight, with a cut in\r\nbank reserve requirements and vague promises of more support\r\na… [+1790 chars]",
+      "id": 7
+    },
+    {
+      "name": "CNBC",
+      "title" : "Asian stocks rise on China stimulus cheer; Nikkei sees more profit-taking",
+      "description": "China stocks bounce loses steam; focus turns to ECB",
+      "author": "feedfeeder",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2024-01-24T18:27:21Z",
+      "id": 8,
+      "content": "MARKET WRAPS \r\nWatch For: \r\nECB interest rate decision; U.K. Consumer confidence survey; France Monthly business survey, unemployment; Germany Ifo Business climate index; trading updates from Nokia, … [+9870 chars]"
+    },
+    {
+      "name": "Federalreserve.gov",
+      "title" : "Elon Musk wants voting control of Tesla’s stock, but he won’t admit it to investors",
+      "author": "feedfeeder",
+      "publishedAt": "2024-01-24T18:27:21Z",
+      "description": "SINGAPORE : Asian shares rose to a one-week high as policy support put a floor under the battered Chinese stock market, while bonds were under pressure ahead of a European Central Bank meeting later in the day.The Shanghai Composite rose 2 per cent and was he…",
+      "urlToImage": "https://c.biztoc.com/p/31184e526d71915b/s.webp",
+      "content": "Asian shares rose to a one-week high as policy support put a floor under the battered Chinese stock market, while bonds were under pressure ahead of a European Central Bank meeting later in the day.T… [+303 chars]",
+      "id": 9
+    },
+    {
+      "name": "Bloomberg",
+      "title" : "Tesla CEO Musk: Chinese EV firms will 'demolish' rivals without trade barriers",
+      "author": "wsj.com",
+      "publishedAt": "2024-01-24T18:27:21Z",
+      "description": "Asian stocks traded cautiously and bonds fell on Thursday while investors waited on more detail of China's stimulus plans and for a European Central Bank meeting later in the session.",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]",
+      "id": 10
+    },
+    {
+      "name": "Gaming Headphone",
+      "price": "1230.50",
+      "publishedAt": "2024-01-24T18:27:21Z",
+      "title" : "Tesla will start making new EV model in second half of 2025",
+      "urlToImage": "https://c.biztoc.com/p/9a049a99262590b8/og.webp",
+      "description": "A low-cost model of Tesla will launch in 2024, CEO Elon Musk told investors. It could help the EV maker compete with BYD and other surging Chinese automakers.",
+      "content": "* Shanghai Composite jumps 2%; Hang Seng up 1.4%\r\n* Yen holds strong side of 148/dollar; JGBs sold\r\n* ECB focus on news conference\r\nSINGAPORE, Jan 25 (Reuters) - Asian shares rose to a\r\none-week high… [+3502 chars]",
+      "id": 11
+    }
+  ]
+
+}
